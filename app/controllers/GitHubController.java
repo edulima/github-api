@@ -1,8 +1,3 @@
-
-//Todo  Move to github
-//Todo  Deploy from github
-//Todo  Add GUI
-
 package controllers;
 
 import com.fasterxml.jackson.databind.JsonNode;
